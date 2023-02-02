@@ -1,0 +1,376 @@
+                                     .
+ ________.         ________          :__________            karl*    _____\___.
+_\       |________/       /_________ |        _/________\________   /     \\  |
+_\\      |       /      _/_\ _      \|       /     _     \       \ //      \\ |
+|\\      |     _//     ___/_\\     \ \      //     |     _\     \ \/ /     _\\|
+| \\     :      /      |      \     \     _//      :      \\     \  /|      \\_
+|__\\__________/_______________\____|\_____/_______________\_____|\/ |_______\
+ <:-\-------------------------------------/--------------------------:------:-
+  .                                                                  .      |
+  |     P r o u d l y   P r e s e n t s                                     |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |       Title : Mortal Kombat 11 (Update v1.0.5)                          |
+  |                                                                         |
+  |   Publisher : WB Games                    Platform : Nintendo Switch    |
+  |   Developer : Shiver Ent./NetherRealm       Origin : eShop              |
+  |       Genre : Fighting                    Title ID : 0100F2200C984800   |
+  :        Date : May 2019                      Format : 88x300MB / NSP     |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     R e l e a s e   N o t e s                                           |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |   Mortal Kombat 11 is the latest installment in the critically          |
+  |   acclaimed franchise, providing a deeper and more personalized         |
+  |   experience than ever before. The all new Custom Character             |
+  |   Variations give you unprecedented control of your fighters to make    |
+  |   them your own. Featuring a roster of new and returning Klassic        |
+  |   Fighters, Mortal Kombat's best-in-class cinematic story mode          |
+  |   continues the epic saga over 25 years in the making. Players take     |
+  |   on the role of a variety of past and present characters in a          |
+  |   time-bending new narrative that pits Raiden against Kronika, the      |
+  |   Keeper of Time. Packed to the brim with multiple modes, including     |
+  |   the Towers of Time, allowing players to test their skills through     |
+  |   various challenges, providing more ways than ever to continue the     |
+  |   Mortal Kombat 11 experience.                                          |
+  |                                                                         |
+  |   Languages: English, French, Italian, German, Spanish and              |
+  |   Portuguese.                                                           |
+  |                                                                         |
+  |   Update/Patch Notes: v1.0.5 (v327680) - Firmware: 8.0.1 Masterkey: 7   |
+  |                                                                         |
+  |   * Mandatory Update to fully play the entire game!                     |
+  |                                                                         |
+  |   A new update has gone live for the Switch version of Mortal Kombat    |
+  |   11. It includes gameplay adjustments, Krypt improvements, and         |
+  |   character adjustments.                                                |
+  |                                                                         |
+  |   Below are the full patch notes:                                       |
+  |                                                                         |
+  |   General Gameplay Adjustments.                                         |
+  |                                                                         |
+  |   * Move list corrections.                                              |
+  |                                                                         |
+  |   * Improvements to AI logic.                                           |
+  |                                                                         |
+  |   * Fixed several rare online desync causes.                            |
+  |                                                                         |
+  |   * Fixed several Brutalities having incorrect requirements or issues   |
+  |   with the description.                                                 |
+  |                                                                         |
+  |   * Kombat Kard Match Replays when being played in fast forward will    |
+  |   no longer sometimes have visual issues.                               |
+  |                                                                         |
+  |   * The game's version number is now displayed in the Tournament Mode   |
+  |   Fighter Select screen.                                                |
+  |                                                                         |
+  |   * The camera will no longer sometimes improperly follow the           |
+  |   characters briefly when a Delayed Getup is used after certain         |
+  |   attacks.                                                              |
+  |                                                                         |
+  |   * Practice Mode will no longer become unresponsive when changing a    |
+  |   character's variation while the AI Enemy Type was set to Record.      |
+  |                                                                         |
+  |   * All Krushing Blows in Kombo Attack Strings that use the Throw /     |
+  |   Front Punch+Front Kick input will now correctly allow either input    |
+  |   to be used while Krushing Blow Held Check is on.                      |
+  |                                                                         |
+  |   * Fixed a rare issue when winning a round which could cause the       |
+  |   character to visually turn around multiple times before playing       |
+  |   their End of Round Taunt.                                             |
+  |                                                                         |
+  |   * Slight adjustment to hit pause visuals when a character blocks an   |
+  |   attack.                                                               |
+  |                                                                         |
+  |   * Adjusted throw vulnerable states to remove a 2 frame window when    |
+  |   recovering from a block for regular throws and a 1 frame window for   |
+  |   special move grabs.                                                   |
+  |                                                                         |
+  |   * Control no longer returns to the player while AI Fighter is         |
+  |   active if the winning opponent performs a Mercy.                      |
+  |                                                                         |
+  |   * Fixed some high attacks and high throws not meeting the             |
+  |   conditions for Uppercut Krushing Blows.                               |
+  |                                                                         |
+  |   * You can no longer get the wrong Skin to appear on Fighter           |
+  |   Select's Variation select UI with specific timing.                    |
+  |                                                                         |
+  |   * When playing on a guest account you can now enter Kustomize in      |
+  |   the Main Menu (I think you could already do this on Switch).          |
+  |                                                                         |
+  |   * Fixed some rare instances of audio quips playing at incorrect       |
+  |   times.                                                                |
+  |                                                                         |
+  |   * Fixed several moves having an incorrect punish window which         |
+  |   resulted in a kounter instead of punish.                              |
+  |                                                                         |
+  |   * Corrected some Flawless Block attacks having unintended frame       |
+  |   data differences when used as a Getup Attack. The following were      |
+  |   adjusted to make them function the same. Cassie (Up+Back Punch),      |
+  |   Erron Black (Up+Front Kick), Kotal (Up+Back Punch & Up+Front Kick),   |
+  |   Kung Lao (Up+Back Punch), Shao Kahn (Up+Back Punch).                  |
+  |                                                                         |
+  |   * Added Russian language support.                                     |
+  |                                                                         |
+  |   * Added Simplified Chinese language support.                          |
+  |                                                                         |
+  |   * Competitive Mode Variations are now always accessible in Practice   |
+  |   Mode under Practice Options P1/P2 Variation as T-I & T-II.            |
+  |                                                                         |
+  |   * Fixed several incorrect Demos in tutorial lessons.                  |
+  |                                                                         |
+  |   Krypt:                                                                |
+  |                                                                         |
+  |   * Kronika chests will no longer rarely spawn in an inaccessible       |
+  |   location.                                                             |
+  |                                                                         |
+  |   * Fixed a visual issue with Descendant of Apep's belt.                |
+  |                                                                         |
+  |   * Fixed rare issue that could result in the Elder God Puzzle          |
+  |   becoming stuck in an unsolvable state.                                |
+  |                                                                         |
+  |   * Added a run button hint.                                            |
+  |                                                                         |
+  |   * Special chests that cost 80,000 and 250,000 coins on initial        |
+  |   opening will no longer have that price when refreshed.                |
+  |                                                                         |
+  |   * The Descendant of Apep will no longer sometimes become stuck in     |
+  |   the Torture Halls.                                                    |
+  |                                                                         |
+  |   * Fixed a bug that could cause The Armory Door to sometimes be        |
+  |   closed.                                                               |
+  |                                                                         |
+  |   * Fixed some rare UI visual issues when a consumable timer runs       |
+  |   out.                                                                  |
+  |                                                                         |
+  |   * Soul Shrine related to Shinnok's Amulet had its price decreased,    |
+  |   from 10,000 soul to 1,000 souls.                                      |
+  |                                                                         |
+  |   * Fixed rare issue where The One Being door would remain locked       |
+  |   after placing all 3 gems.                                             |
+  |                                                                         |
+  |   Tutorial:                                                             |
+  |                                                                         |
+  |   * Fixed several incorrect Demos in tutorial lessons.                  |
+  |                                                                         |
+  |   * Corrected various text issues in tutorial lessons.                  |
+  |                                                                         |
+  |   * Added additional tips to the Basic Tutorial.                        |
+  |                                                                         |
+  |   * Changed the character in the Kombo Limitations and Pressure         |
+  |   Defense Lessons, making some tasks easier to perform.                 |
+  |                                                                         |
+  |   * Adjusted some player starting positions in the Grounded Neutral     |
+  |   lesson.                                                               |
+  |                                                                         |
+  |   * Fixed an issue that could prevent progression in the Hit            |
+  |   Confirming lesson if the player viewed the Demo at specific timing.   |
+  |                                                                         |
+  |   Towers of Time.                                                       |
+  |                                                                         |
+  |   * Players will no longer be removed from the Tower of Time portal     |
+  |   if they expire while being played.                                    |
+  |                                                                         |
+  |   * Fixed some modifiers' visual effects appearing during Krushing      |
+  |   Blow or Fatal Blow cinematics.                                        |
+  |                                                                         |
+  |   * Fixed some modifiers having lingering effects in certain rare       |
+  |   situations.                                                           |
+  |                                                                         |
+  |   * Changed input to exit the game during a Group Battle.               |
+  |                                                                         |
+  |   * Fatal Blow UI will no longer sometimes not update correctly         |
+  |   during Group Battles.                                                 |
+  |                                                                         |
+  |   * Endurance Fights should now award Flawless Victory correctly.       |
+  |                                                                         |
+  |   * Improved gameplay performance when using some modifiers.            |
+  |                                                                         |
+  |   Stage Specific Adjustments.                                           |
+  |                                                                         |
+  |   * Cyber Lin Kuei Assembly - Fixed issue with Ice Bomb causing         |
+  |   opponent to be grounded while visually in the air under certain       |
+  |   circumstances.                                                        |
+  |                                                                         |
+  |   Character Specific Adjustments.                                       |
+  |                                                                         |
+  |   * Baraka - His Throw Krushing Blow requirements no longer sometimes   |
+  |   reset after he escapes an opponent's throw.                           |
+  |                                                                         |
+  |   * Baraka - Landing a Back Throw Krushing Blow will no longer allow    |
+  |   a Forward Throw Krushing Blow to be done without a failed Throw       |
+  |   Escape.                                                               |
+  |                                                                         |
+  |   * Cassie Cage - Fatal Blow is no longer throw immune during some of   |
+  |   its startup frames while still on the ground.                         |
+  |                                                                         |
+  |   * Cassie Cage - Flying Glow Kick now requires the correct button to   |
+  |   be held when Krushing Blow held check is enabled.                     |
+  |                                                                         |
+  |   * Cetrion - Fixed Getup Attack/Flawless Block Attack Up+2 not being   |
+  |   immune to air attacks/throws.                                         |
+  |                                                                         |
+  |   * Cetrion - Getup Attack/Flawless Block Attack (Up+Front Kick) now    |
+  |   has the correct visual effect indicating it is invincible.            |
+  |                                                                         |
+  |   * Cetrion - Tendril Pull will no longer sometimes appear behind       |
+  |   Cetrion in certain circumstances.                                     |
+  |                                                                         |
+  |   * Cetrion - Rock objects are now properly handled when Cetrion is     |
+  |   interrupted out of her throws.                                        |
+  |                                                                         |
+  |   * Cetrion - Fixed unintended sound effects sometimes playing when     |
+  |   Cetrion's throws are escaped.                                         |
+  |                                                                         |
+  |   * Cetrion - Throws that are escaped no longer count towards the       |
+  |   requirement of Splitting Apart Brutality.                             |
+  |                                                                         |
+  |   * D'Vorah - Mother Bug will no longer sometimes changes back to       |
+  |   default colors after it has died.                                     |
+  |                                                                         |
+  |   * D'Vorah - Widow's Kiss when Amplified will no longer leave          |
+  |   webbing on the opponent when it is interrupted with specific          |
+  |   timing.                                                               |
+  |                                                                         |
+  |   * Erron Black - Corrected facial animation to opponent when they      |
+  |   are hit by his Towards Throw.                                         |
+  |                                                                         |
+  |   * Erron Black - Adjusted the long wait time after his Fatal Blow      |
+  |   hits before both players get control of their characters. Frame       |
+  |   data is unchanged.                                                    |
+  |                                                                         |
+  |   * Frost - Getup Attack/Flawless Block Attack (Up+Back Punch) is now   |
+  |   correctly immune to jumping attacks & throws, deals 5 damage (from    |
+  |   9) and plays the correct visual effect.                               |
+  |                                                                         |
+  |   * Frost - Getup Attack/Flawless Block Attack (Up+Front Kick) now      |
+  |   plays the correct visual effect.                                      |
+  |                                                                         |
+  |   * Frost - Cryogenic Crown will no longer sometimes go in the wrong    |
+  |   direction after performing a cross-up jump attack.                    |
+  |                                                                         |
+  |   * Frost - Fatal Blow is no longer throw immune during some of its     |
+  |   startup & active frames.                                              |
+  |                                                                         |
+  |   * Geras - Gauntlet of the Ages will no longer retaining its charge    |
+  |   level after hitting with Uppercut (Down+Back Punch) or Gauntlet of    |
+  |   the Ages Krushing Blows.                                              |
+  |                                                                         |
+  |   * Geras - Fixed a bug that could cause Body Buster (Towards Back      |
+  |   Punch) to sometimes alter the opponents facing.                       |
+  |                                                                         |
+  |   * Geras - Fixed bug that allowed Geras to be able to block during     |
+  |   some of the recovery frames of Reverse Time.                          |
+  |                                                                         |
+  |   * Jacqui Briggs - Winning a round with a direct impact hit with       |
+  |   Grenade Launcher will no longer sometimes result in damage of time    |
+  |   continuing into the next round.                                       |
+  |                                                                         |
+  |   * Jacqui Briggs - Tech-Dome will no longer have lingering visual      |
+  |   effects when it is interrupted before it activates.                   |
+  |                                                                         |
+  |   * Jacqui Briggs - Fixed some visual issues with Shield Battery Gear   |
+  |   item when Jacqui loses a round in certain circumstances and after     |
+  |   some Fatal Blows have connected.                                      |
+  |                                                                         |
+  |   * Jade - Backward Throw can now award FIRST HIT PROPS!                |
+  |                                                                         |
+  |   * Jax - Heat Up mechanic will now work properly after a Mercy is      |
+  |   performed.                                                            |
+  |                                                                         |
+  |   * Jax - Heat Missile will no longer auto correct when second heat     |
+  |   missile is fired.                                                     |
+  |                                                                         |
+  |   * Johnny Cage - Fatal Blow is no longer throw immune during some of   |
+  |   its startup frames.                                                   |
+  |                                                                         |
+  |   * Johnny Cage - Fatal Blow cinematic is no longer visually            |
+  |   obstructed by certain foreground objects.                             |
+  |                                                                         |
+  |   * Kano - Getup Attack/Flawless Block Attack (Up+Back Punch) being     |
+  |   able to cancel into Fatal Blow for a brief moment during startup.     |
+  |                                                                         |
+  |   * Kano - Fixed issue with damage over time lingering into next        |
+  |   round if last hit is done with Chemical Burn.                         |
+  |                                                                         |
+  |   * Kollector - Fixed (Air) Bag Bomb sometimes missing visual effects   |
+  |   when it makes contact with the ground.                                |
+  |                                                                         |
+  |   * Kotal Kahn - Fatal Blow cinematic is no longer visually             |
+  |   obstructed by certain foreground objects.                             |
+  |                                                                         |
+  |   * Kotal Kahn - Added controller vibration to damage inflicted by      |
+  |   Tonatiuh Beam.                                                        |
+  |                                                                         |
+  |   * Kung Lao - Kung Lao is no longer able to exit the boundary of the   |
+  |   arena while teleporting under certain circumstances.                  |
+  |                                                                         |
+  |   * Liu Kang - Dragon Parry is no longer throw immune during some of    |
+  |   its recovery frames.                                                  |
+  |                                                                         |
+  |   * Liu Kang - Energy Parry while Dragon Fire is active will no         |
+  |   longer caused a parry to trigger erroneously in rare circumstances.   |
+  |                                                                         |
+  |   * Liu Kang - Energy Parry can no longer create multiple projectiles   |
+  |   from one single successful parry while Dragon Fire is active.         |
+  |                                                                         |
+  |   * Liu Kang - Fixed an issue with Bicycle Kick visual effects          |
+  |   sometimes being misaligned.                                           |
+  |                                                                         |
+  |   * Noob - The Shadow Clone can no longer become attached to the        |
+  |   opponent when Shadow Tackle is interrupted during certain             |
+  |   circumstances.                                                        |
+  |                                                                         |
+  |   * Noob - Fixed a visual issue with the Shadow Clone after the For     |
+  |   The Brotherhood (Away+Front Punch, Throw, Back Punch) Krushing Blow   |
+  |   cinematic.                                                            |
+  |                                                                         |
+  |   * Raiden - Lightning Bolt no longer auto corrects when amplified.     |
+  |                                                                         |
+  |   * Raiden - Lightning Storm will no longer sometimes cause issues      |
+  |   with the game camera after a practice reset.                          |
+  |                                                                         |
+  |   * Scorpion - Spine Ripper Brutality no longer takes priority over a   |
+  |   successful throw escape.                                              |
+  |                                                                         |
+  |   * Skarlet - Blood Tentacle is no longer throw immune during some of   |
+  |   its startup & active frames.                                          |
+  |                                                                         |
+  |   * Sonya - K.A.T. Turret will no longer sometimes disappear when       |
+  |   opponent is defeated by K.A.T. Tantrum.                               |
+  |                                                                         |
+  |   * Sub-Zero - Fixed a bug preventing an opponents from being able to   |
+  |   Breakaway after being hit by Rising Ice.                              |
+  |                                                                         |
+  |   * Sub-Zero - Fixed rare issue that could cause Sub-Zero to become     |
+  |   invisible after Frozen Over End of Round Taunt.                       |
+  |                                                                         |
+  |   * Sub-Zero - Fixed an issue with Slide Amplify visual effects         |
+  |   sometimes being misaligned.                                           |
+  |                                                                         |
+  |   * Shao Kahn - Fixed a bug preventing an opponents from being able     |
+  |   to Breakaway after being hit by Shoulder Charger Amplify.             |
+  |                                                                         |
+  |   * Shao Kahn - Fixed issue causing D1 and F3 to be set as low parry    |
+  |   vulnerable instead of high parry vulnerable.                          |
+  |                                                                         |
+  |   * Shao Kahn - Fixed Fatal Blow cinematic being visually obstructed    |
+  |   by certain foreground objects.                                        |
+  :                                                                         |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     G r e e t i n g s                                                   |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |            Abstrakt . Anthrox . Capital . Caravan . Complex             |
+  |    Dual Crew Shining . Duplex . Echelon . Eurasia . Kalisto . Legacy    |
+  |    Lightforce . Menace . Miracle . Mode 7 . Money . Mystic . Napalm     |
+  |    Nightfall . Oldskool . Paradox . Premiere . Project X . Protocol     |
+  |      Quartex . Quasar . Rising Sun . Scoopex . Sneakers . Triforce      |
+  |                                                                         |
+ -:-------------------------------------------------------------------------:>
+  |                                                                         |
+  .                  VENOM - Flawless Victory! Since 2001.                  .
